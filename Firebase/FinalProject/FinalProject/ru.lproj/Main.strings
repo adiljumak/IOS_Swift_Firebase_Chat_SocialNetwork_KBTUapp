@@ -1,0 +1,222 @@
+
+/* Class = "UIButton"; normalTitle = "Name"; ObjectID = "07u-0P-M12"; */
+"07u-0P-M12.normalTitle" = "Имя";
+
+/* Class = "UINavigationItem"; title = "News"; ObjectID = "0Ed-Ju-e2J"; */
+"0Ed-Ju-e2J.title" = "Новости";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "17a-1J-G1W"; */
+"17a-1J-G1W.text" = "Сообщение";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "17o-1d-dfX"; */
+"17o-1d-dfX.text" = "Имя";
+
+/* Class = "UILabel"; text = "time"; ObjectID = "3AY-lm-Y11"; */
+"3AY-lm-Y11.text" = "Время";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "6Kn-1L-Lim"; */
+"6Kn-1L-Lim.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "Post text. "; ObjectID = "7Iv-gh-ii8"; */
+"7Iv-gh-ii8.text" = "Отправить";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "7x7-ve-ywf"; */
+"7x7-ve-ywf.text" = "Имя";
+
+/* Class = "UILabel"; text = "Magametov"; ObjectID = "8cX-19-p4A"; */
+"8cX-19-p4A.text" = "Фамилия";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "8qJ-gk-dvV"; */
+"8qJ-gk-dvV.normalTitle" = "Регистрация";
+
+/* Class = "UILabel"; text = "Subject detail info"; ObjectID = "CN6-jb-4qI"; */
+"CN6-jb-4qI.text" = "Subject detail info";
+
+/* Class = "UILabel"; text = "time"; ObjectID = "CU9-BM-azy"; */
+"CU9-BM-azy.text" = "время";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "CXA-6K-gtZ"; */
+"CXA-6K-gtZ.placeholder" = "Фамилия";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "DUG-gY-6dm"; */
+"DUG-gY-6dm.text" = "Имя";
+
+/* Class = "UILabel"; text = "Text"; ObjectID = "DnQ-dB-dN1"; */
+"DnQ-dB-dN1.text" = "Text";
+
+/* Class = "UITextField"; placeholder = "Lastname"; ObjectID = "Edh-Vp-eth"; */
+"Edh-Vp-eth.placeholder" = "Отчество";
+
+/* Class = "UILabel"; text = "Surname"; ObjectID = "EgX-ii-aav"; */
+"EgX-ii-aav.text" = "Фамилия";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Fid-rs-Tuu"; */
+"Fid-rs-Tuu.placeholder" = "Имя";
+
+/* Class = "UILabel"; text = "Your faculty:"; ObjectID = "GNg-RK-ALK"; */
+"GNg-RK-ALK.text" = "Факультет:";
+
+/* Class = "UIButton"; normalTitle = "Edit info"; ObjectID = "HIy-a4-8A3"; */
+"HIy-a4-8A3.normalTitle" = "Редактировать";
+
+/* Class = "UINavigationItem"; title = "Edit info"; ObjectID = "HMa-Q7-hkm"; */
+"HMa-Q7-hkm.title" = "Редактировать";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "HZL-45-JXT"; */
+"HZL-45-JXT.title" = "Настройки";
+
+/* Class = "UILabel"; text = "time"; ObjectID = "Hpu-oU-Eag"; */
+"Hpu-oU-Eag.text" = "время";
+
+/* Class = "UILabel"; text = "Rakhman"; ObjectID = "I1s-dz-ziR"; */
+"I1s-dz-ziR.text" = "Имя";
+
+/* Class = "UILabel"; text = "Your name:"; ObjectID = "IRS-ua-2Bo"; */
+"IRS-ua-2Bo.text" = "Имя:";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "JrS-Ww-Gsv"; */
+"JrS-Ww-Gsv.text" = "Имя";
+
+/* Class = "UILabel"; text = "Faculty"; ObjectID = "K7w-yq-qgj"; */
+"K7w-yq-qgj.text" = "Факультет";
+
+/* Class = "UITextField"; placeholder = "Faculty"; ObjectID = "KKy-Kd-utU"; */
+"KKy-Kd-utU.placeholder" = "Факультет:";
+
+/* Class = "UILabel"; text = "Surname"; ObjectID = "KyP-Ny-VZz"; */
+"KyP-Ny-VZz.text" = "Фамилия";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "LRE-ct-PvE"; */
+"LRE-ct-PvE.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "Faculty & specialty"; ObjectID = "MFh-jM-47o"; */
+"MFh-jM-47o.text" = "Факультет & Специальность";
+
+/* Class = "UILabel"; text = "Rakhman"; ObjectID = "Nme-RJ-biP"; */
+"Nme-RJ-biP.text" = "Имя";
+
+/* Class = "UIButton"; normalTitle = "Write message"; ObjectID = "OAg-lq-zRp"; */
+"OAg-lq-zRp.normalTitle" = "Напишите сообщение...";
+
+/* Class = "UIButton"; normalTitle = "Sign out"; ObjectID = "PVh-iD-YtF"; */
+"PVh-iD-YtF.normalTitle" = "Выйти";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Pv8-5x-7Ia"; */
+"Pv8-5x-7Ia.text" = "Имя";
+
+/* Class = "UISegmentedControl"; Q9u-B6-ryf.segmentTitles[0] = "Disciplines"; ObjectID = "Q9u-B6-ryf"; */
+"Q9u-B6-ryf.segmentTitles[0]" = "Дисциплины";
+
+/* Class = "UISegmentedControl"; Q9u-B6-ryf.segmentTitles[1] = "Teachers"; ObjectID = "Q9u-B6-ryf"; */
+"Q9u-B6-ryf.segmentTitles[1]" = "Преподаватели";
+
+/* Class = "UITextField"; placeholder = "Message..."; ObjectID = "QxN-lh-83W"; */
+"QxN-lh-83W.placeholder" = "Сообщение...";
+
+/* Class = "UILabel"; text = "hashtags"; ObjectID = "R8T-YD-7km"; */
+"R8T-YD-7km.text" = "Хэштеги";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "RNq-As-6Sx"; */
+"RNq-As-6Sx.text" = "Имя";
+
+/* Class = "UINavigationItem"; title = "Messenger"; ObjectID = "RQ8-rJ-gR3"; */
+"RQ8-rJ-gR3.title" = "Месенджер";
+
+/* Class = "UILabel"; text = "New student?"; ObjectID = "S0D-0g-W7y"; */
+"S0D-0g-W7y.text" = "Новый пользователь?";
+
+/* Class = "UILabel"; text = "Right"; ObjectID = "UYd-TJ-ORi"; */
+"UYd-TJ-ORi.text" = "Right";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "VP6-Jd-dPe"; */
+"VP6-Jd-dPe.text" = "About";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "VyC-4d-BC5"; */
+"VyC-4d-BC5.text" = "Subject";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "XQt-pC-cmn"; */
+"XQt-pC-cmn.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "Lastname"; ObjectID = "XyW-Hx-8GM"; */
+"XyW-Hx-8GM.placeholder" = "Lastname";
+
+/* Class = "UILabel"; text = "Surname"; ObjectID = "aFF-q1-jZk"; */
+"aFF-q1-jZk.text" = "Surname";
+
+/* Class = "UILabel"; text = "KBTU"; ObjectID = "b3M-lN-5LK"; */
+"b3M-lN-5LK.text" = "KBTU";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "bY8-en-ptM"; */
+"bY8-en-ptM.placeholder" = "E-mail";
+
+/* Class = "UILabel"; text = "Magametov"; ObjectID = "ckQ-cb-U1G"; */
+"ckQ-cb-U1G.text" = "Magametov";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "fb6-UD-nW2"; */
+"fb6-UD-nW2.text" = "About";
+
+/* Class = "UINavigationItem"; title = "UNINET"; ObjectID = "fu5-Av-lUf"; */
+"fu5-Av-lUf.title" = "UNINET";
+
+/* Class = "UILabel"; text = "Faculty & specialty"; ObjectID = "gHp-PI-ewN"; */
+"gHp-PI-ewN.text" = "Faculty & specialty";
+
+/* Class = "UILabel"; text = "Your lastname:"; ObjectID = "gxS-Dl-CuJ"; */
+"gxS-Dl-CuJ.text" = "Your lastname:";
+
+/* Class = "UILabel"; text = "Teacher info"; ObjectID = "jMh-HZ-xDh"; */
+"jMh-HZ-xDh.text" = "Teacher info";
+
+/* Class = "UILabel"; text = "hashtags"; ObjectID = "jxJ-mu-dec"; */
+"jxJ-mu-dec.text" = "hashtags";
+
+/* Class = "UILabel"; text = "Surname"; ObjectID = "kXj-Hb-Eyg"; */
+"kXj-Hb-Eyg.text" = "Surname";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "kww-O0-auE"; */
+"kww-O0-auE.placeholder" = "Surname";
+
+/* Class = "UILabel"; text = "Teachership"; ObjectID = "n2A-0d-gTL"; */
+"n2A-0d-gTL.text" = "Teachership";
+
+/* Class = "UILabel"; text = "Your description:"; ObjectID = "nPG-2c-t1Z"; */
+"nPG-2c-t1Z.text" = "Your description:";
+
+/* Class = "UILabel"; text = "Post text. "; ObjectID = "naS-dN-2LF"; */
+"naS-dN-2LF.text" = "Post text. ";
+
+/* Class = "UIBarButtonItem"; title = "Friends"; ObjectID = "nqa-vk-nBD"; */
+"nqa-vk-nBD.title" = "Friends";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "rYD-66-Fb8"; */
+"rYD-66-Fb8.normalTitle" = "Log in";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "rdu-yx-xwp"; */
+"rdu-yx-xwp.placeholder" = "E-mail";
+
+/* Class = "UILabel"; text = "Left"; ObjectID = "sA1-rG-SFd"; */
+"sA1-rG-SFd.text" = "Left";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "tAc-XD-1fE"; */
+"tAc-XD-1fE.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "New post"; ObjectID = "u3C-Ip-fMA"; */
+"u3C-Ip-fMA.normalTitle" = "New post";
+
+/* Class = "UILabel"; text = "Your surname:"; ObjectID = "uMe-dm-zLo"; */
+"uMe-dm-zLo.text" = "Your surname:";
+
+/* Class = "UILabel"; text = "Surname"; ObjectID = "wtr-Y1-Glb"; */
+"wtr-Y1-Glb.text" = "Surname";
+
+/* Class = "UILabel"; text = "Surname"; ObjectID = "xZS-Zu-wML"; */
+"xZS-Zu-wML.text" = "Surname";
+
+/* Class = "UIButton"; normalTitle = "⋮"; ObjectID = "xv0-ka-UiY"; */
+"xv0-ka-UiY.normalTitle" = "⋮";
+
+/* Class = "UITextField"; placeholder = "About yourself"; ObjectID = "yY8-oi-e6n"; */
+"yY8-oi-e6n.placeholder" = "About yourself";
+
+/* Class = "UILabel"; text = "Teachership"; ObjectID = "ydK-bI-v7d"; */
+"ydK-bI-v7d.text" = "Teachership";
